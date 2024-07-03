@@ -8,6 +8,6 @@ Including every implemenation of projects in Nand2Tetris. You can use this by al
 - Coursera      
 Part1: https://www.coursera.org/learn/build-a-computer   
 Part2: https://www.coursera.org/learn/nand2tetris2   
-- Youtube
+- Youtube    
 https://www.youtube.com/watch?v=LqirVc5SlW0&list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI   
 https://www.youtube.com/watch?v=KBTg0ju4rxM&list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh&ab_channel=MakkuZjAileron   
